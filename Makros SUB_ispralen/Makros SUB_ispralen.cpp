@@ -19,7 +19,7 @@ int main()
     sub = (a)-(b);
     std::cout << sub << std::endl;
 #endif
-#if 6,5,2
+#if 6 5 2
     sub = (a - b) * c;
     std::cout << sub << std::endl;
 #endif
